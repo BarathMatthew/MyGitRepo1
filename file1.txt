@@ -1,2 +1,8 @@
 this is a sample file 1
+<<<<<<< HEAD
 this file is modified by jeyavel 
+=======
+modified by matthew
+>>>>>>> a454dc088e61ee07314d61469f4c802df1793f57
+
+2) second time modified by jeyavel
